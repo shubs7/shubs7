@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubs7
+- 👋 Hi, I’m Shubham Dubey
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning DSA and Web Development
 - 💞️ I’m looking to collaborate on web development projects
